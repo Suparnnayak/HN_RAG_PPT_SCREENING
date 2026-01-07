@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+*.pdf
+*.ppt
+*.pptx
+data/
+chroma_db/
+vector_store/
+faiss_index/
+.DS_Store
+Thumbs.db
