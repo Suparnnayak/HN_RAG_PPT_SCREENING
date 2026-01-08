@@ -1,0 +1,14 @@
+2026-01-07 22:01:22,594 | INFO | Starting ranking process
+2026-01-07 22:01:22,594 | ERROR | Input file not found: scores.csv
+2026-01-07 22:02:38,687 | INFO | Starting ranking process
+2026-01-07 22:02:56,072 | INFO | Starting ranking process
+2026-01-07 22:09:32,058 | INFO | Starting ranking process
+2026-01-07 22:09:32,058 | ERROR | Input file is empty
+2026-01-07 22:15:52,454 | INFO | Starting ranking process
+2026-01-07 22:15:52,470 | INFO | Removed 1 duplicate rows
+2026-01-07 22:15:52,475 | INFO | Ranking completed. Saved top 3 records
+2026-01-07 22:16:17,246 | INFO | Starting ranking process
+2026-01-07 22:16:17,250 | INFO | Removed 1 duplicate rows
+2026-01-07 22:16:17,253 | INFO | Ranking completed. Saved top 3 records
+2026-01-07 22:19:41,892 | INFO | Starting Excel writing process
+2026-01-07 22:19:41,896 | INFO | Excel file does not exist. Creating new file
